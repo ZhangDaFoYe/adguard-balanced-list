@@ -1,0 +1,43 @@
+name: Update merged blocklist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-blocklist
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate merged list
+        run: python3 scripts/merge_rules.py
+
+      - name: Run tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Commit updated output
+        run: |
+          if git diff --quiet -- dist/; then
+            echo "No rule changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "chore: update merged blocklist"
+          git push

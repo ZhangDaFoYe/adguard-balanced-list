@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-08-09T03:23:34+00:00",
+  "source_count": 3,
+  "unique_domains_before_parent_collapse": 63129,
+  "unique_domains_after_parent_collapse": 62923,
+  "unique_advanced_rules": 0,
+  "output_rules": 62923,
+  "output_sha256": "f3aa1e0194bed62d6546ae423cc851d17efeef7e573ecb95d007fecd69cb475b",
+  "sources": [
+    {
+      "name": "OISD Small",
+      "url": "https://small.oisd.nl/",
+      "bytes": 1261285,
+      "sha256": "18438a6a3149d1e92cf5cfbff69ac5ff687e5dfa1bfaea50a36dc642d974cc4d",
+      "parsed_lines": 56795,
+      "unique_domains": 56795,
+      "unique_advanced_rules": 0
+    },
+    {
+      "name": "AWAvenue Ads Rule",
+      "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+      "bytes": 21806,
+      "sha256": "6af7aca25a9b39ee60e9a7482f8f19f25e9a84307b15dd2a6bfb896063a5e1c7",
+      "parsed_lines": 898,
+      "unique_domains": 897,
+      "unique_advanced_rules": 0
+    },
+    {
+      "name": "URLHaus Malicious URL Blocklist",
+      "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
+      "bytes": 164430,
+      "sha256": "72426ddcece99e6cf6986f64bc53709d0f9fee7bfebc9c28b6a2556889a68139",
+      "parsed_lines": 6076,
+      "unique_domains": 6076,
+      "unique_advanced_rules": 0
+    }
+  ]
+}

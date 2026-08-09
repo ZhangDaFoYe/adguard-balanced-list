@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "name": "OISD Small",
+      "url": "https://small.oisd.nl/"
+    },
+    {
+      "name": "AWAvenue Ads Rule",
+      "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+    },
+    {
+      "name": "URLHaus Malicious URL Blocklist",
+      "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt"
+    }
+  ]
+}
