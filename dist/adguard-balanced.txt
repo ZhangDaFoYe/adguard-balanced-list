@@ -1,7 +1,7 @@
 ! Title: AdGuard Balanced List
 ! Description: OISD Small + AWAvenue + URLHaus, normalized and deduplicated
 ! Homepage: https://github.com/ZhangDaFoYe/adguard-balanced-list
-! Last modified: 2026-08-09T11:12:03+00:00
+! Last modified: 2026-08-09T11:16:41+00:00
 ! Expires: 1 day (update frequency)
 ! Rules: 62984
 ! License: Each source retains its own license and terms
