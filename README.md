@@ -11,10 +11,8 @@
 ## 订阅地址
 
 ```text
-https://raw.githubusercontent.com/OWNER/adguard-balanced-list/main/dist/adguard-balanced.txt
+https://raw.githubusercontent.com/ZhangDaFoYe/adguard-balanced-list/main/dist/adguard-balanced.txt
 ```
-
-仓库创建后，请将 `OWNER` 替换为实际 GitHub 用户名。
 
 ## 去重逻辑
 

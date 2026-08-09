@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-09T03:23:34+00:00",
+  "generated_at": "2026-08-09T11:12:03+00:00",
   "source_count": 3,
-  "unique_domains_before_parent_collapse": 63129,
-  "unique_domains_after_parent_collapse": 62923,
+  "unique_domains_before_parent_collapse": 63190,
+  "unique_domains_after_parent_collapse": 62984,
   "unique_advanced_rules": 0,
-  "output_rules": 62923,
-  "output_sha256": "f3aa1e0194bed62d6546ae423cc851d17efeef7e573ecb95d007fecd69cb475b",
+  "output_rules": 62984,
+  "output_sha256": "3009ddc072d74087b0a53a0e7600919782e3a4c5ba44fec6c2cacd1f921ae12d",
   "sources": [
     {
       "name": "OISD Small",
       "url": "https://small.oisd.nl/",
-      "bytes": 1261285,
-      "sha256": "18438a6a3149d1e92cf5cfbff69ac5ff687e5dfa1bfaea50a36dc642d974cc4d",
-      "parsed_lines": 56795,
-      "unique_domains": 56795,
+      "bytes": 1262657,
+      "sha256": "5399371ca59af8e563f2dbb471e64a8dfed5b2ad86a1e8e22eed401870bd233e",
+      "parsed_lines": 56856,
+      "unique_domains": 56856,
       "unique_advanced_rules": 0
     },
     {
