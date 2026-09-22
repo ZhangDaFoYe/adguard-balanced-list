@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-21T09:05:11+00:00",
+  "generated_at": "2026-09-22T08:38:46+00:00",
   "source_count": 3,
-  "unique_domains_before_parent_collapse": 60685,
-  "unique_domains_after_parent_collapse": 60424,
+  "unique_domains_before_parent_collapse": 60763,
+  "unique_domains_after_parent_collapse": 60501,
   "unique_advanced_rules": 0,
-  "output_rules": 60424,
-  "output_sha256": "e2f4332c3ec33cadc054621eed86bb63ec5729d4012e9e7052833e75ae9e78f4",
+  "output_rules": 60501,
+  "output_sha256": "c02856cc4f70786e321cebebefbef3821f2e3091ccb84a41b4b244e10295bb50",
   "sources": [
     {
       "name": "OISD Small",
       "url": "https://small.oisd.nl/",
-      "bytes": 1278044,
-      "sha256": "c246413db2cb8c71a5e9e4668bd02b790c095fe337e332aaf4761c3f50c9d9d3",
-      "parsed_lines": 56867,
-      "unique_domains": 56867,
+      "bytes": 1280425,
+      "sha256": "8d24898b714e3420e7d6a354117886a8bdf28c65c9b4a28e1d446e598957d00b",
+      "parsed_lines": 56973,
+      "unique_domains": 56973,
       "unique_advanced_rules": 0
     },
     {
       "name": "AWAvenue Ads Rule",
       "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-      "bytes": 23163,
-      "sha256": "de67c65317db263848a75c9535794fbba0e3d2c344eebba4c0217946e8252334",
-      "parsed_lines": 959,
-      "unique_domains": 956,
+      "bytes": 23211,
+      "sha256": "e63c0ba4d838883a683034f3cbcebe7e00c4d99fb6d10bb130b2283e819976e2",
+      "parsed_lines": 961,
+      "unique_domains": 958,
       "unique_advanced_rules": 0
     },
     {
       "name": "URLHaus Malicious URL Blocklist",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
-      "bytes": 92514,
-      "sha256": "cf36bc2e36551edec6c8a62fb733a599a098c6fa522050ae6e254ffbe164f467",
-      "parsed_lines": 3553,
-      "unique_domains": 3553,
+      "bytes": 91757,
+      "sha256": "1254eba28005f3c64121e158e78983393290e743a9b38b03c5bdb48a8a412e50",
+      "parsed_lines": 3525,
+      "unique_domains": 3525,
       "unique_advanced_rules": 0
     }
   ]
