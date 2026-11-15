@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-14T10:38:21+00:00",
+  "generated_at": "2026-11-15T11:10:35+00:00",
   "source_count": 3,
-  "unique_domains_before_parent_collapse": 64908,
-  "unique_domains_after_parent_collapse": 64653,
+  "unique_domains_before_parent_collapse": 65183,
+  "unique_domains_after_parent_collapse": 64925,
   "unique_advanced_rules": 0,
-  "output_rules": 64653,
-  "output_sha256": "ad025d160493ad74be9a01a4b0da044ebd586cea844dc99bab05f3298457ec66",
+  "output_rules": 64925,
+  "output_sha256": "34c24e7645a4fa0fc552cf39ba1946fb16e5ea3e8d4cf20e006ad16920f1b354",
   "sources": [
     {
       "name": "OISD Small",
       "url": "https://small.oisd.nl/",
-      "bytes": 1420249,
-      "sha256": "081d0ebb76057a44fbba30b5ccf89267b6db0669991e74e36d13647a96f21129",
-      "parsed_lines": 62636,
-      "unique_domains": 62636,
+      "bytes": 1426104,
+      "sha256": "66e8683541d21541f42456e1e5d33652db47f4237d2661d21f67abd3b00d6d04",
+      "parsed_lines": 62893,
+      "unique_domains": 62893,
       "unique_advanced_rules": 0
     },
     {
       "name": "AWAvenue Ads Rule",
       "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-      "bytes": 23470,
-      "sha256": "fdf930d67659f6f1405c81e67c1fb7797145c54296c5ba0398729aa4d846808c",
-      "parsed_lines": 972,
-      "unique_domains": 969,
+      "bytes": 23436,
+      "sha256": "e73efc95b5e57c51c6429aabc9c5a9f11e68a7367260db9cfc03c215493bbded",
+      "parsed_lines": 967,
+      "unique_domains": 964,
       "unique_advanced_rules": 0
     },
     {
       "name": "URLHaus Malicious URL Blocklist",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
-      "bytes": 48966,
-      "sha256": "7cc7e5b5cd68ad6715647d23dd217cbe6f43c92866e9b9093a75b8f2cfebe04e",
-      "parsed_lines": 2006,
-      "unique_domains": 2006,
+      "bytes": 49395,
+      "sha256": "5c1ca2f3ea8c836c253a72ac25fa8366d9c37385c1523aaadd7adaa199cb5fd8",
+      "parsed_lines": 2023,
+      "unique_domains": 2023,
       "unique_advanced_rules": 0
     }
   ]
