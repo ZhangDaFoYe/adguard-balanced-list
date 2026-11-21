@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-20T11:52:43+00:00",
+  "generated_at": "2026-11-21T11:21:45+00:00",
   "source_count": 3,
-  "unique_domains_before_parent_collapse": 64162,
-  "unique_domains_after_parent_collapse": 63892,
+  "unique_domains_before_parent_collapse": 64348,
+  "unique_domains_after_parent_collapse": 64078,
   "unique_advanced_rules": 0,
-  "output_rules": 63892,
-  "output_sha256": "66de6b6172e90a1db8a2f283fc85e0e054a5eaacb286d3efb33ebe41adcd43eb",
+  "output_rules": 64078,
+  "output_sha256": "f1a77015a40d0158616647228a9544eada345c3ae48f04c73b0ffcc3e87be2b7",
   "sources": [
     {
       "name": "OISD Small",
       "url": "https://small.oisd.nl/",
-      "bytes": 1398721,
-      "sha256": "018388b409e864f12d143c4684307b537820e91c630d53e15eb8a60fc03ba307",
-      "parsed_lines": 61793,
-      "unique_domains": 61793,
+      "bytes": 1402554,
+      "sha256": "92b61144bb3938302e0c0d25be7e6091a9c9b61d189608bc13db6875c70e3b2d",
+      "parsed_lines": 61964,
+      "unique_domains": 61964,
       "unique_advanced_rules": 0
     },
     {
@@ -28,10 +28,10 @@
     {
       "name": "URLHaus Malicious URL Blocklist",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
-      "bytes": 50963,
-      "sha256": "6a1d3f19e26837314268324f5951dc92e597ca2733454b179c098fca1695870e",
-      "parsed_lines": 2090,
-      "unique_domains": 2090,
+      "bytes": 51265,
+      "sha256": "1fe79ce274884c90f18dd497fde45de8d127848503add40e0f2f9c646c26ceeb",
+      "parsed_lines": 2105,
+      "unique_domains": 2105,
       "unique_advanced_rules": 0
     }
   ]
