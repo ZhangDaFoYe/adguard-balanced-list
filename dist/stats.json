@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-22T11:38:21+00:00",
+  "generated_at": "2026-11-23T13:09:11+00:00",
   "source_count": 3,
-  "unique_domains_before_parent_collapse": 64463,
-  "unique_domains_after_parent_collapse": 64193,
+  "unique_domains_before_parent_collapse": 64570,
+  "unique_domains_after_parent_collapse": 64320,
   "unique_advanced_rules": 0,
-  "output_rules": 64193,
-  "output_sha256": "2c3d352c14d087c11c5cd21493c7c1c84f18f24fbcef5b78e52b84d5b24ee637",
+  "output_rules": 64320,
+  "output_sha256": "8edb614049832f958a2b8f28f0504c4fbea371eaafd2bada5776e13aecdee7c1",
   "sources": [
     {
       "name": "OISD Small",
       "url": "https://small.oisd.nl/",
-      "bytes": 1406437,
-      "sha256": "e74b1632eb8b0b98f102a0a9b54812db7ce72592534ec9ee9c1f01dcc37ec3b0",
-      "parsed_lines": 62067,
-      "unique_domains": 62067,
+      "bytes": 1408381,
+      "sha256": "27cb269d63104db39efce3c8138a370b1df5415cfcb929eae4fb47cf507cc3fe",
+      "parsed_lines": 62166,
+      "unique_domains": 62166,
       "unique_advanced_rules": 0
     },
     {
       "name": "AWAvenue Ads Rule",
       "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-      "bytes": 23792,
-      "sha256": "b79862f3cf66cd0d5a24318c724b0932cc9bb1bf6c344e0c7fb41f6adddacce5",
+      "bytes": 23771,
+      "sha256": "9c7204be5180e33ed97d2f7b8dc9fc1b61e6aabdaafa149ed9165636294f7f7b",
       "parsed_lines": 981,
       "unique_domains": 978,
       "unique_advanced_rules": 0
@@ -28,10 +28,10 @@
     {
       "name": "URLHaus Malicious URL Blocklist",
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
-      "bytes": 51503,
-      "sha256": "b79177a6b21053ddb54e1257e1b3e22c8fae9741f9781d9f77eea6663222acf3",
-      "parsed_lines": 2117,
-      "unique_domains": 2117,
+      "bytes": 51222,
+      "sha256": "44469903dbf93cfd1dcfb13b40c4383d9d5b7da3054933cb0eeaf8a431eafa95",
+      "parsed_lines": 2124,
+      "unique_domains": 2124,
       "unique_advanced_rules": 0
     }
   ]
